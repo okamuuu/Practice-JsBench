@@ -1,0 +1,9 @@
+SYNOPSYS
+
+    git clone git@github.com:okamuuu/Practice-JsBench.git
+    plackup static.psgi
+    open -a "FireFox" http://localhost:5000/benchmark.html
+
+SEE ALSO
+
+    git clone http://tddjs.com/code/04-test-to-learn.git
